@@ -1,57 +1,57 @@
 {
   "tool": "qwen",
-  "version": "0.25.0",
-  "source": "github QwenLM/qwen-code v0.25.0 SHA256SUMS",
+  "version": "0.27.0",
+  "source": "github QwenLM/qwen-code v0.27.0 SHA256SUMS",
   "targets": {
     "darwin-arm64": {
       "format": "archive",
       "package": "qwen-code-darwin-arm64",
-      "version": "0.25.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.25.0/qwen-code-darwin-arm64.tar.gz",
+      "version": "0.27.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.0/qwen-code-darwin-arm64.tar.gz",
       "archive": "tar.gz",
       "stripComponents": 1,
-      "sha256": "6fd20e1f817277d597d43f6496b2d2d446b7a011a3e1475b9b846c6de32848d7",
-      "size": 82782960
+      "sha256": "f3df5807281a6a724a9898e7950f73d2a657cdfb4dcb58e1a1ef212715ea73d3",
+      "size": 85415344
     },
     "darwin-x64": {
       "format": "archive",
       "package": "qwen-code-darwin-x64",
-      "version": "0.25.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.25.0/qwen-code-darwin-x64.tar.gz",
+      "version": "0.27.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.0/qwen-code-darwin-x64.tar.gz",
       "archive": "tar.gz",
       "stripComponents": 1,
-      "sha256": "1159e0e53b51e852c8fb3a44000ae394973c0e57865f639b632d9a4ddd154d6f",
-      "size": 84075258
+      "sha256": "444e60ce03304f202ff492f30faba5eef820bbb324231a2b171c5552141678f8",
+      "size": 86713648
     },
     "linux-arm64": {
       "format": "archive",
       "package": "qwen-code-linux-arm64",
-      "version": "0.25.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.25.0/qwen-code-linux-arm64.tar.gz",
+      "version": "0.27.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.0/qwen-code-linux-arm64.tar.gz",
       "archive": "tar.gz",
       "stripComponents": 1,
-      "sha256": "3fb72812ed8a483646120e2f565fdd8d2726b8d39c88b546175397123d729f3b",
-      "size": 89675220
+      "sha256": "9223829dd84658b3b3cee1a947e6c9f6d89075b5b248cb796836c93fb2363435",
+      "size": 92324680
     },
     "linux-x64": {
       "format": "archive",
       "package": "qwen-code-linux-x64",
-      "version": "0.25.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.25.0/qwen-code-linux-x64.tar.gz",
+      "version": "0.27.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.0/qwen-code-linux-x64.tar.gz",
       "archive": "tar.gz",
       "stripComponents": 1,
-      "sha256": "f333a1df64bf60f4de7056b6bd282e6f1b55e517e1224bffd29a22e92527511a",
-      "size": 89877861
+      "sha256": "f1c49e19ce7ba51199d62e738ad03b304bf7084d18ed996d382898afd1e8dc2c",
+      "size": 92539420
     },
     "win32-x64": {
       "format": "archive",
       "package": "qwen-code-win32-x64",
-      "version": "0.25.0",
-      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.25.0/qwen-code-win-x64.zip",
+      "version": "0.27.0",
+      "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.0/qwen-code-win-x64.zip",
       "archive": "zip",
       "stripComponents": 1,
-      "sha256": "24f2ac3cabe4a249e45f56c06512c83346efb493a6ff1c6462b52c476c3308c5",
-      "size": 71398841
+      "sha256": "74540eae33e8a79918ac914f297d146b0472ecf2d5fa187d58330d93e5cf9371",
+      "size": 74010128
     }
   }
 }
