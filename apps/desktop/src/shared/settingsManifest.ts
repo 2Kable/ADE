@@ -1752,7 +1752,7 @@ export const SETTINGS_ENTRIES: readonly SettingEntry[] = [
   {
     id: "activity.dock-badge",
     label: "Dock badge counts",
-    keywords: ["dock", "badge", "count", "this mac", "all machines", "account"],
+    keywords: ["dock", "app", "badge", "count", "this mac", "all machines", "account"],
     tab: "notifications",
     anchor: "activity-dock-badge",
     scope: "account",
