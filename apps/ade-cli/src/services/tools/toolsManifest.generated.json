@@ -487,52 +487,52 @@
         "darwin-arm64": {
           "format": "archive",
           "package": "devin-darwin-arm64",
-          "version": "3000.11.3",
-          "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-aarch64-apple-darwin.tar.gz",
+          "version": "3000.12.32",
+          "url": "https://static.devin.ai/cli/3000.12.32/devin-3000.12.32-aarch64-apple-darwin.tar.gz",
           "archive": "tar.gz",
           "stripComponents": 0,
-          "sha256": "c08cc3f3507d103246b8c601a584fcc719fd77f6cc10f26cc90e9f4186640df2",
-          "size": 57383263
+          "sha256": "97d2c8779795661cdf56326985373ae9776d3121bd3616b3817fd57f6e539342",
+          "size": 65913256
         },
         "darwin-x64": {
           "format": "archive",
           "package": "devin-darwin-x64",
-          "version": "3000.11.3",
-          "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-x86_64-apple-darwin.tar.gz",
+          "version": "3000.12.32",
+          "url": "https://static.devin.ai/cli/3000.12.32/devin-3000.12.32-x86_64-apple-darwin.tar.gz",
           "archive": "tar.gz",
           "stripComponents": 0,
-          "sha256": "594f89b6b0d03dffec4eabc754104e4471cc43a014a2164e2fdd7d0d752d0100",
-          "size": 64013268
+          "sha256": "82a81d1a37261b9cd8af4a1bfc2ef1ee4858ad7fcb3e88d8905694338b752d2d",
+          "size": 70377190
         },
         "linux-arm64": {
           "format": "archive",
           "package": "devin-linux-arm64",
-          "version": "3000.11.3",
-          "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-aarch64-unknown-linux.tar.gz",
+          "version": "3000.12.32",
+          "url": "https://static.devin.ai/cli/3000.12.32/devin-3000.12.32-aarch64-unknown-linux.tar.gz",
           "archive": "tar.gz",
           "stripComponents": 0,
-          "sha256": "21a2d7a8dea67987067cde7eb3fe7193a48daa8f8c3d50d414c603c4a2b67f15",
-          "size": 60527938
+          "sha256": "73a7cb329d9dc6a1da9712c8ebf20c67d5ae60ef5fac7cbe86e46a7e8ff85a68",
+          "size": 67823615
         },
         "linux-x64": {
           "format": "archive",
           "package": "devin-linux-x64",
-          "version": "3000.11.3",
-          "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-x86_64-unknown-linux.tar.gz",
+          "version": "3000.12.32",
+          "url": "https://static.devin.ai/cli/3000.12.32/devin-3000.12.32-x86_64-unknown-linux.tar.gz",
           "archive": "tar.gz",
           "stripComponents": 0,
-          "sha256": "83b3b113c01bf2a3e9e100db08d77e6b086806a7754f091e20831bdfe215157e",
-          "size": 65069068
+          "sha256": "c4f5a4e277f67190daed2f032515219b1fbfcb2320f46140cf0ce70019d41c58",
+          "size": 71467369
         },
         "win32-x64": {
           "format": "archive",
           "package": "devin-win32-x64",
-          "version": "3000.11.3",
-          "url": "https://static.devin.ai/cli/3000.11.3/devin-3000.11.3-x86_64-pc-windows.zip",
+          "version": "3000.12.32",
+          "url": "https://static.devin.ai/cli/3000.12.32/devin-3000.12.32-x86_64-pc-windows.zip",
           "archive": "zip",
           "stripComponents": 0,
-          "sha256": "dded69a40dc54012612eda47e0935f2fb394b97cd38cb4d7d84b1e1d71c5f7ea",
-          "size": 63969472
+          "sha256": "071528ffe2822cc93d04931e9be384cb61a8910c33027c128b5e3992fdab99a0",
+          "size": 70413379
         }
       }
     },
